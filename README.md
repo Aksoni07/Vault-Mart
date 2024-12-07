@@ -111,4 +111,3 @@
 
 ---  
 
-This updated description now includes **Razorpay** as one of the payment gateways used in the project.
